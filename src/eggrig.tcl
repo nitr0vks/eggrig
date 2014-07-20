@@ -1,0 +1,1 @@
+#eggrig for bfgminer 4.4.0
